@@ -29,7 +29,7 @@
     "OWNER_NUMBER": {
       "description": "Owner Number",
       "required": true,
-      "default": "94718913389"
+      "default": "237696262128"
     },
     "ALIVE_IMG": {
       "description": "Put your alive img here.",
